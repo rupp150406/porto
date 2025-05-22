@@ -11,10 +11,6 @@
     "width": 24,
     "height": 24
   },
-  "github": {
-    "width": 24,
-    "height": 24
-  },
   "menu": {
     "width": 24,
     "height": 24
@@ -55,7 +51,12 @@
     "width": 24,
     "height": 24
   },
-  "bluesky": {
+
+  "instagram": {
+    "width": 24,
+    "height": 24
+  },
+  "facebook": {
     "width": 24,
     "height": 24
   }
